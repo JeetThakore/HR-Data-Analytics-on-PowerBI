@@ -1,6 +1,6 @@
 # HR Data Analytics On PowerBI
 
-This HR Analytics Dashboard, created by **Jeet Pranav Thakore**, provides comprehensive insights into various aspects of employee data, job satisfaction, and performance metrics. Built using **Power BI**, the dashboard visualizes key HR indicators to help organizations make data-driven decisions aimed at improving employee engagement, satisfaction, and overall performance. It covers a wide range of analyses, from general employee distribution to specific metrics like job involvement, satisfaction rates, and salary correlations.
+This HR Analytics Dashboard provides comprehensive insights into various aspects of employee data, job satisfaction, and performance metrics. Built using **Power BI**, the dashboard visualizes key HR indicators to help organizations make data-driven decisions aimed at improving employee engagement, satisfaction, and overall performance. It covers a wide range of analyses, from general employee distribution to specific metrics like job involvement, satisfaction rates, and salary correlations.
 
 ## General Insights
 The dashboard begins with an overview of employee distribution by department, offering a quick snapshot of the organizational structure. This section sets the stage for more detailed analyses, enabling users to understand the overall composition of the workforce before diving into specific metrics. The interactive nature of the dashboard allows users to navigate through different sections easily, making it a user-friendly tool for HR professionals and management alike.
